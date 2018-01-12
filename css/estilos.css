@@ -1,7 +1,25 @@
-.cabecera{
-  width: 100%;
-  height: ;
+.fondo {
+  background-color: #545453;
 }
-.logo{
-  width: 50%;
+
+.cabecera {
+  width: 100%;
+  background-color: rgb(14, 213, 183);
+  padding: 1vh;
+}
+
+.logo {
+  width: 40%;
+}
+
+.redes {
+  padding-right: 2vw;
+}
+
+.espacio{
+  height: 1vh;
+}
+
+.beatles{
+  width: 100%;
 }
