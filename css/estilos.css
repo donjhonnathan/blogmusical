@@ -4,6 +4,7 @@
 
 .cabecera {
   width: 100%;
+  height: ;
   background-color: rgb(14, 213, 183);
   padding: 1vh;
 }
@@ -16,18 +17,22 @@
   padding-right: 2vw;
 }
 
-.espacio{
+.logo {
+  width: 50%;
+}
+
+.espacio {
   height: 1vh;
 }
 
-.beatles{
+.beatles {
   width: 100%;
 }
 
-.buscador{
+.buscador {
   padding-top: 1vh;
 }
 
-.margen{
+.margen {
   margin-bottom: 1vh;
 }
